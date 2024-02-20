@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ordenamiento_MezclaV",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ordenamiento_MezclaV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ordenamiento_MezclaV-Debug-9dadc19600a0859d061b.json",
+					"name" : "Ordenamiento_MezclaV",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Ordenamiento_MezclaV/cmake-build-debug",
+		"source" : "/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Ordenamiento_MezclaV"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

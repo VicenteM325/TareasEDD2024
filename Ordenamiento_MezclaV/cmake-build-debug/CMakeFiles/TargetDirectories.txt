@@ -1,0 +1,3 @@
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Ordenamiento_MezclaV/cmake-build-debug/CMakeFiles/Ordenamiento_MezclaV.dir
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Ordenamiento_MezclaV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Ordenamiento_MezclaV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
