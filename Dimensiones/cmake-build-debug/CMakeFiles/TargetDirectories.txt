@@ -1,0 +1,3 @@
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Dimensiones/cmake-build-debug/CMakeFiles/Dimensiones.dir
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Dimensiones/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vicente/HOMEWORKS/LabEDD/TareasEDD2024/Dimensiones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
